@@ -8,7 +8,7 @@
     <groupId>com.thiru</groupId>
     <artifactId>dev-ops-cloud</artifactId>
     <version>1.0.0</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>dev-ops-cloud</name>
     <description>My first Maven project</description>
